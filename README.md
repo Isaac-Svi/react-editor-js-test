@@ -1,15 +1,26 @@
-# react-express-starter
+This project was made with [react-express-starter](https://github.com/Isaac-Svi/react-express-starter).
 
-### To use:
+## To test:
 
-An NPM package will be made in the future. For now, you can use npx degit:
+Either clone the repo or use npx degit.
 
-    npx degit Isaac-Svi/react-express-starter#main <your project folder name>
+```bash
+git clone https://github.com/Isaac-Svi/react-editor-js-test.git
+```
 
-cd into the project folder, then run the following to install dependencies:
+OR
 
-    npm run setup
+```bash
+npx degit Isaac-Svi/react-editor-js-test <your folder name>
+```
 
-Finally, just run the following code to get started:
+## To install all dependencies:
 
-    npm run dev
+```bash
+npm run setup
+```
+
+## To use:
+```bash
+npm run dev
+```
